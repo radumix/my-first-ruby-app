@@ -1,0 +1,12 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.columnSelection": false,
+    "editor.defaultColorDecorators": true,
+    "editor.experimental.asyncTokenizationLogging": true,
+    "editor.experimental.asyncTokenizationVerification": true,
+    "editor.experimental.treeSitterTelemetry": true,
+    "editor.experimentalEditContextEnabled": true,
+    "html-to-css-autocompletion.triggerCharacters": true,
+    "html-css-class-completion.enableEmmetSupport": true
+}
